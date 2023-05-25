@@ -1,0 +1,23 @@
+.formGroup {
+    margin-bottom: 10px;
+
+    .label {
+        line-height: 1.5;
+        padding: 7px 0;
+        display: block;
+    }
+
+    .inputField {
+        width: 92%;
+    }
+
+    .errorBox {
+        color: red;
+    }
+}
+
+.loginButton {
+    background-color: #7366FF;
+    color: white;
+    width: 100%;
+}
